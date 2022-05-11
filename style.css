@@ -16,6 +16,7 @@ body {
   font-size: 18px;
   padding: auto 20px;
   background: linear-gradient(-20deg, #F24, #64F);
+  transform: scale(0.8);
 }
 .wrapper {
   display: flex;
